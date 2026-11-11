@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working at **Albacore** on an ecosystem for intelligent buildings (BMS modular architecture, canvas schematic renderers, graphic editors, and real-time data visualization).
+- 🔭 Currently working at **Albacore** on an ecosystem for intelligent buildings<!-- (BMS modular architecture, canvas schematic renderers, graphic editors, and real-time data visualization) -->.
 - 🌱 Passionate about reactive frameworks (especially **Svelte**), UI engineering, and lightweight zero-dependency tools.
 - 🎨 Strong background in **UI/UX design**, Adobe Creative Cloud plugin development, and Web3/Solidity.
 - 📄 Check out my full experience and background on my **[Curriculum Vitæ](https://valexr.github.io/cv/)**.
