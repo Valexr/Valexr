@@ -8,7 +8,7 @@
 - 🔭 Currently working at **Albacore** on an ecosystem for intelligent buildings (BMS modular architecture, canvas schematic renderers, graphic editors, and real-time data visualization).
 - 🌱 Passionate about reactive frameworks (especially **Svelte**), UI engineering, and lightweight zero-dependency tools.
 - 🎨 Strong background in **UI/UX design**, Adobe Creative Cloud plugin development, and Web3/Solidity.
-- 📄 Check out my full experience and background on my **[Curriculum Vitæ](https://github.io)**.
+- 📄 Check out my full experience and background on my **[Curriculum Vitæ](https://valexr.github.io/cv/)**.
 
 ---
 
@@ -26,14 +26,14 @@
 
 ### 📦 Featured Projects
 
-* 📸 **[Slidy](https://github.com)** — Lightweight, dependency-free sliding action script written in TypeScript (350+ ⭐).
-* 🏠 **[Jsonik](https://github.com)** — Tiny JSON backend built with Svelte.
-* 📻 **[sfm](https://github.com)** — Minimalistic SomaFM radio player powered by TypeScript.
-* 🧩 **[tagy](https://github.com)** / 🐍 **[Snaky](https://github.com)** / 🏗 **[Tetrix](https://github.com)** — Classic browser mini-games built with TypeScript and Svelte.
+* 📸 **[Slidy](https://github.com/Valexr/Slidy)** — Lightweight, dependency-free sliding action script written in TypeScript (350+ ⭐).
+* 🏠 **[Jsonik](https://github.com/Valexr/Jsonik)** — Tiny JSON backend built with Svelte.
+* 📻 **[sfm](https://github.com/Valexr/sfm)** — Minimalistic SomaFM radio player powered by TypeScript.
+* 🧩 **[tagy](https://github.com/Valexr/Tagy)** / 🐍 **[Snaky](https://github.com/Valexr/Snaky)** / 🏗 **[Tetrix](https://github.com/Valexr/Tetrix)** — Classic browser mini-games built with TypeScript and Svelte.
 
 ---
 
 ### 📫 Connect with Me
 
-- 🌐 **Resume / CV:** [valexr.github.io/cv](https://github.io)
+- 🌐 **Resume / CV:** [valexr.github.io/cv](https://valexr.github.io/cv/)
 - 📧 **Email:** [valexr@gmail.com](mailto:valexr@gmail.com)
